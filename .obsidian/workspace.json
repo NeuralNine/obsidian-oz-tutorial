@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "dd03871e5b6b0110",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64fbf16840f6f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2b1d8c4da33d41d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackerNews/my custom research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my custom research"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09c398bf400ce121",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dcd5925967af21a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73760f503621b436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2bc6af327eff2c7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82125f84e4885faa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2772ed35641f25aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2720ca28069ca6c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1814182e93b94c68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HackerNews/my custom research.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for my custom research"
+            }
+          },
+          {
+            "id": "c266de02d7f73e13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HackerNews/my custom research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from my custom research"
+            }
+          },
+          {
+            "id": "379e912e60d1dd01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d46dbf1da0ca870",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f64ba905eaa867cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HackerNews/my custom research.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of my custom research"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a2b1d8c4da33d41d",
+  "lastOpenFiles": [
+    "HackerNews/why-i-dont-think-agi-is-imminent-47028923.md",
+    "HackerNews/my custom research.md",
+    "HackerNews/two-tricks-fast-llm-inference-47022329.md",
+    "HackerNews/microgpt-visualize-browser-47026186.md",
+    "HackerNews/expensively-quadratic-llm-agent-cost-curve-47000034.md",
+    "HackerNews/claude-pen-plotter-47004384.md",
+    "HackerNews/ai-kill-app-subscriptions-47024387.md"
+  ]
+}
